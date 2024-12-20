@@ -20,7 +20,7 @@ It demonstrates my commitment to continuous learning in the rapidly growing AI f
 ## 🏆 Certificate Preview  
 Here’s a preview of the certificate:  
 
-![AI Career Essentials Certificate](./path-to-your-certificate-image.png)
+![AI Career Essentials Certificate](./73-alx-aice-ai-career-essentials-certificate-abderrahim-abid)
 
 ---
 
